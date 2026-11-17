@@ -20,16 +20,16 @@ Cara menjalankan:
 
 
 ### 1. Halaman Utama
-![Halaman Daftar Tugas](./Screenshot/Halaman_Utama.png)
+![Halaman Daftar Tugas](./Screenshot/Halaman Utama.png)
 
 ### 2. Tambah Tugas
-![Modal Tambah Todo](./Screenshot/Tambah_Tugas.png)
+![Modal Tambah Todo](./Screenshot/Tambah Tugas.png)
 
 ### 3. Detail Tugas
-![Halaman Detail Tugas](./Screenshot/Detail_Tugas.png)
+![Halaman Detail Tugas](./Screenshot/Detail Tugas.png)
 
 ### 4. Update Tugas
-![Modal Update Todo](./Screenshot/Update_Tugas.png)
+![Modal Update Todo](./Screenshot/Update Tugas.png)
 
 ### 5. Konfirmasi Hapus Tugas
-![Modal Konfirmasi Hapus](./Screenshot/Konfirmasi_Hapus_Tugas.png)
+![Modal Konfirmasi Hapus](./Screenshot/Konfirmasi Hapus Tugas.png)
